@@ -1,5 +1,7 @@
 # nuxt-test
 
+Ref: https://medium.com/vue-mastery/free-nuxt-js-tutorial-creating-an-app-1a531bc6045
+
 ## Build Setup
 
 ```bash
