@@ -3,7 +3,14 @@
         <nuxt />
       </div>
     </template>
-    
+    <script>
+    import NavBar from "~/components/NavBar.vue";
+    export default {
+      components: {
+        NavBar
+      }
+    };
+    </script>
     <style>
     html {
       -webkit-text-size-adjust: 100%;
